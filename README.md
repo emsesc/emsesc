@@ -1,3 +1,11 @@
+<h2 align="center"> ⭐ Welcome! I'm Emily.</h1>
+
+### What I do
+* 🚩 Capture the Flag competitions
+* 🕸️ Web Development
+* 📚 Making tech education more accessible
+
+
 ### What have I worked with?
 <p>
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
