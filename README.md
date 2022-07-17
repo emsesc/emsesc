@@ -1,8 +1,9 @@
-<h2 align="center"> ⭐ Welcome! I'm Emily.</h1>
+<h1 align="center"> ⭐ Welcome! I'm Emily.</h1>
+<h3 align="center"> <i>(she/her)</i> </h3>
 
 ### What I do
 * 🚩 Capture the Flag competitions
-* 🕸️ Web Development
+* 💻 Full-Stack Dev
 * 📚 Making tech education more accessible
 
 
